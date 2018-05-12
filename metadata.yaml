@@ -1,15 +1,21 @@
 _repo: Viuluniekka-Kolmilohkoinen-naytelma_49541
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Dahlberg, E. J.
     gutenberg_agent_id: '45387'
     url: http://www.gutenberg.org/2009/agents/45387
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kneifel, Rudolf
     gutenberg_agent_id: '45386'
     url: http://www.gutenberg.org/2009/agents/45386
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49541#Viuluniekka-Kolmilohkoinen-naytelma
 gutenberg_issued: '2015-07-29'
 gutenberg_type: Text
 identifiers:
